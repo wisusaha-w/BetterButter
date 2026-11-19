@@ -1,0 +1,6 @@
+{
+  "name": "Pink Bakery Lab",
+  "description": "Virtual Baking & Entrepreneurship Simulator — shop Jakarta bakery ingredients, weigh and mix in the prep lab, bake in real time, get rule-based baking diagnostics, and analyze HPP, profit, and BEP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
